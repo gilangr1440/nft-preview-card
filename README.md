@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL here](https://your-solution-url.com)
-- Live Site URL: [site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL here](https://lnkd.in/gVVrNQy4)
+- Live Site URL: [site URL here](https://gilangr1440.github.io/nft-preview-card/)
 
 ## My process
 
